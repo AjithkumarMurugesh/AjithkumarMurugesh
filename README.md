@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajith+kumar+🚀...+!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajith+kumar+🚀...+!;" />
 <h3 align="center">A passionate frontend developer from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithkumarmurugesh&label=Profile%20views&color=0e75b6&style=flat" alt="ajithkumarmurugesh" /> </p>
